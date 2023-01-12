@@ -27,7 +27,9 @@ There are other projects which utilizes the OpenAI API for various tasks, you ca
 ## Conclusion
 
 These projects demonstrate the power and flexibility of the OpenAI API and how it can be used to perform various tasks in Python. I hope that these projects will be useful for anyone looking to learn more about the OpenAI API and how to use it in their own projects.
+
 Also, You can read more information about OpenAI API here: https://beta.openai.com/
+
 ## Acknowledgments
 
 - OpenAI for providing the API and library
